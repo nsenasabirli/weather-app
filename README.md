@@ -13,7 +13,7 @@ Responsive Design: Works on all devices, from desktops to mobile phones.
 ## GIF to show the work 
 ![WhatsApp-Video-2024-07-10-at-18 11 17](https://github.com/nsenasabirli/weather-app/assets/72200463/8e1aa541-fd49-4b41-8bef-0e267cd5bb59)
 
-
+## View in the Simulator
 
 ![WhatsApp Image 2024-07-10 at 18 25 30](https://github.com/nsenasabirli/weather-app/assets/72200463/d2ac389a-219d-4716-8669-b875e698ebbf)
 
