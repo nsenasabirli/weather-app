@@ -1,4 +1,4 @@
-##Weather App
+## Weather App
 
 A simple and elegant weather application that provides current weather information for any location. Built with modern web technologies, this app aims to be both functional and visually appealing.
 
