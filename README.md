@@ -3,8 +3,8 @@
 A simple and elegant weather application that provides current weather information for any location. Built with modern web technologies, this app aims to be both functional and visually appealing.
 
 Features
-Current Weather: Get up-to-date weather information for any city. \n
-Weather Details: Includes temperature, humidity, wind speed, and more. \n 
+Current Weather: Get up-to-date weather information for any city. 
+Weather Details: Includes temperature, humidity, wind speed, and more. 
 Responsive Design: Works on all devices, from desktops to mobile phones.
 
 
