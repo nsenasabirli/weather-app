@@ -10,7 +10,7 @@ Responsive Design: Works on all devices, from desktops to mobile phones.
 ## AppIcon
 ![WhatsApp Image 2024-07-10 at 15 35 56](https://github.com/nsenasabirli/weather-app/assets/72200463/9ce3fccd-c6c8-4020-88b3-c2af5e8b0f39)
 
-
+## GIF to show the work 
 ![WhatsApp-Video-2024-07-10-at-18 11 17](https://github.com/nsenasabirli/weather-app/assets/72200463/8e1aa541-fd49-4b41-8bef-0e267cd5bb59)
 
 
